@@ -1,6 +1,8 @@
 h1{
-    color:rgba(230, 100, 143, 0.712)
+    color:rgba(230, 100, 143, 0.712);
 }
 body{
-    background-color:lightsteelblue
+    background-color:lightsteelblue;
+    margin: auto;
+    text-align: center;
 }
